@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+}
+ 
+nav {
+    background-color:red;
+    color:white;
+    padding: 30px;
+    margin:0px;
+   text-align:center;
+   lign-height:10px;
+   font-size:30px;
+}
+ 
+nav ul {
+    list-style-type:none;
+    margin: 0px;
+    padding: 30px;
+    color:black;
+}
+ 
+nav ul li {
+    list-style-type:none;
+    display:inline; 
+	font-size:20px;
+    margin-right:100px;
+    color:yellow;
+}
+ 
+header {
+    text-align:center;
+    background-color:black;
+    padding: 20px;
+    margin-bottom: 100px;  
+}
+ 
+h1{
+color:red;
+}
+
+h2{
+color:violet;
+}
+
+p{
+color:orange;
+text-decoration:underline;
+}
+ 
+section {
+    padding: 20px;
+    margin-bottom:100px;
+}
+
+ 
+img {
+    max-width: 100%;
+    height: auto;
+}
+#contact {
+    background-color:pink;
+    padding: 20px;
+	margin:0px;
+}
+
+
+
+ 
+
+ 
